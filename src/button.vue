@@ -5,7 +5,7 @@
     export default {
         methods: {
             onClick() {
-                this.$emit('click');
+                this.$emit('clicky?');
             }
         }
     }
